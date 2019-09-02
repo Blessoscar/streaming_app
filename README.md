@@ -7,7 +7,7 @@ http://www.chioka.in
 Modified to support streaming out with webcams, and not just raw JPEGs.
 
 ### Credits
-Most of the code credits to Miguel Grinberg, except that I made a small tweak. Thanks!
+
 http://blog.miguelgrinberg.com/post/video-streaming-with-flask
 
 ### Usage
